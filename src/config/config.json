@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "postgres",
+    "username": "mgeovany",
     "password": "password",
     "database": "database-dev",
     "port": "5432",
